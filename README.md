@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PokéCollector](https://github.com/Channilol/PokeCollectorFRONTEND)
 
-- 🌱 I’m currently learning **Angular, Python**
+- 🌱 I’m currently learning **Angular, Java**
 
 - 📫 How to reach me **fcannizzo97@gmail.com**
 
