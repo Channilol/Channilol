@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal web portfolio, soon to be released!**
 
-- 🌱 I’m currently learning **Java, Angular**
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - 📫 How to reach me **fcannizzo97@gmail.com**
 
