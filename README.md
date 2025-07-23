@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francesco Cannizzo</h1>
 <h3 align="center">A passionate fullstack developer from Italy</h3>
 
-- 🔭 I’m currently working on **Pokenav**
+- 🔭 I’m currently working on **Pokenav** [check the repository](https://github.com/Channilol/Pokenav)
 
 - 🌱 I’m currently learning **Complex animations with Flutter**
 
